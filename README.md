@@ -19,6 +19,8 @@ Atualmente estou focado em desenvolver habilidades técnicas e profissionais par
 💻 C++
 ⌨ Windows CMD
 
+🛠 Tecnologias e Ferramentas
+
 💡 Qualidades
 ✅ Autonomia
 ✅ Gestão de Tempo
