@@ -1,6 +1,6 @@
-## Olá sou estudante do ensino médio 
+## Olá sou João Pedro 
 
-🎓 Estudante Técnico em Desenvolvimento de Sistemas
+##🎓 Estudante Técnico em Desenvolvimento de Sistemas
 
 📍 SESI-SENAI Cruzeiro/Lorena
 
