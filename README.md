@@ -9,8 +9,8 @@
 Sou estudante do curso técnico de Desenvolvimento de Sistemas no SESI-SENAI e estou construindo minha trajetória na área de tecnologia, buscando aprender novas ferramentas e desenvolver projetos práticos.
 
 Atualmente estou focado em desenvolver habilidades técnicas e profissionais para crescer como desenvolvedor.
-📚 Atualmente aprendendo
 
+📚 Atualmente aprendendo
 🐍 Python
 🐧 Linux
 🖥 Ubuntu
@@ -18,8 +18,6 @@ Atualmente estou focado em desenvolver habilidades técnicas e profissionais par
 🔌 Arduino
 💻 C++
 ⌨ Windows CMD
-
-🛠 Tecnologias e Ferramentas
 
 💡 Qualidades
 ✅ Autonomia
@@ -29,7 +27,6 @@ Atualmente estou focado em desenvolver habilidades técnicas e profissionais par
 ✅ Organização
 ✅ Aprendizado Contínuo
 
-📫 Contato
 
 📧 Email: joaopedrossantosjapinha7@gmail.com
 <!--
