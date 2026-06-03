@@ -25,8 +25,11 @@ Atualmente estou focado em desenvolver habilidades técnicas e profissionais par
 ✅ Aprendizado Contínuo
 
 
- 📧 Email: joaopedrossantosjapinha7@gmail.com
-  📷 Instagram: joaopedro_judo
+ ## 📫 Contato
+
+- Instagram: @joaopedro_judo
+- Email: joaopedrossantosjapinha7@gmail.com
+
  
 <!--
 **Xit-ux/Xit-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
