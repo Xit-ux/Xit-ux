@@ -27,7 +27,7 @@ Atualmente estou focado em desenvolver habilidades técnicas e profissionais par
 
  ## 📫 Contato
 
-- Instagram:joaopedro_judo
+- Instagram: joaopedro_judo
 - Email: joaopedrossantosjapinha7@gmail.com
 
  
